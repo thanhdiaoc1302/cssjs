@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://giaiphapthuonghieu.vn';
+	var url_popup = 'http://nhadatsinhloi.vn';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
