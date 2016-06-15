@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/1LbdAEr';
+	var url_popup = 'http://bit.ly/1Q4AGWE';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
