@@ -1,4 +1,4 @@
-	var url_popup = 'http://bit.ly/1UULnXG';
+	var url_popup = 'https://goo.gl/2A7ftn';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'http://bietthu-nghiduong.net/';
+	var url_popup = 'http://nhadatsinhloi.vn/can-ho-richmond-city-nguyen-xi-hung-thinh/';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
